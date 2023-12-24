@@ -5,6 +5,10 @@
 ## Overview
 This project showcases the implementation of Framer Motion with Vite in a React application. It emphasizes smooth animations and interactive user experiences through Framer Motion's capabilities.
 
+## Link to website
+
+Link : www.framer-motions-vite.netlify.app
+
 ## Features
 - **Animations**: Utilizes Framer Motion for fluid and dynamic UI animations.
 - **Interactive Components**: Demonstrates interactive components powered by Framer Motion's functionalities.
